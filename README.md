@@ -1,4 +1,4 @@
-# Advanced cURL to Repeater - Burp Suite Extension
+# CURL to Repeater - Burp Suite Extension
 
 A Burp Suite extension that converts cURL commands from clipboard directly to Burp Repeater with advanced GraphQL support.
 
@@ -38,6 +38,8 @@ A Burp Suite extension that converts cURL commands from clipboard directly to Bu
 
 
 #### Note: 
-I created this extension for my use case - it might have bugs but feel free to raise issues if you encounter any problems.
+I created this extension for my use case - it might have bugs but feel free to raise issues if you encounter any problems. 
+
+Original Idea - https://github.com/portswigger/paste-curl-to-repeater
 
 
